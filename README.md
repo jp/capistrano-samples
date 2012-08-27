@@ -1,0 +1,4 @@
+capistrano-samples
+==================
+
+capistrano bases
